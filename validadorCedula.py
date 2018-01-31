@@ -21,3 +21,4 @@ def cedula_es_valida(cedula):
             if digito_validador != int(cedula[9]):
                 return "No valida: no coincide el digito validador"
             return "Valida"
+
