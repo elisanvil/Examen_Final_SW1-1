@@ -1,4 +1,4 @@
-""" Mi docs de modulo """
+""" Mi docs de modulo ss"""
 import math
 
 def cedula_es_valida(cedula):
