@@ -1,7 +1,7 @@
-'''hey hey'''
+'''descripcion de los import'''
 import math
 def cedula_es_valida(cedula):
-    ''' Esta es del import(?) '''
+    ''' Descriopcion de la funcion '''
     if len(cedula) != 10:
         return "No valida: debe ser de 10 digitos"
     else:
